@@ -128,6 +128,9 @@ Try running the script with `PYOPENGL_PLATFORM=egl` prepended, e.g. `PYOPENGL_PL
 
 </details>
 
+## Data
+The scans used to localize the camera in the HPS and iReplica projects are released as a part of the corresponding datasets and can be found [here](https://virtualhumans.mpi-inf.mpg.de/hps/hps_ireplica_scenes.html).
+
 ## Citation
 
 If you find this code useful, please consider citing our papers:
